@@ -17,7 +17,7 @@ https://github.com/sensaur/JSON.Statham-back/tree/sensaur
 
 3. Deploy: https://json-statham.com/
 4. Start 01.02.2023 / done 28.02.2023
-5. Task project. Our Team: 
+5. Team project. Our Team: 
 - [sensaur](https://github.com/sensaur) - back-end
 - [NikolayBalabanov](https://github.com/sensaur) - front-end
 - [VEKozlov111](https://github.com/VEKozlov111) - front-end
