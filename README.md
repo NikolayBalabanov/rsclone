@@ -12,12 +12,16 @@ https://github.com/sensaur/JSON.Statham-back/tree/sensaur
 
 1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md
 2. Screenshot:
-<img width="1381" alt="image" src="https://user-images.githubusercontent.com/83227158/221664432-f28f2690-b9b2-4e67-bdb2-28a1aa5c5d7a.png">
+![image](https://user-images.githubusercontent.com/96470401/223028873-f4fa63a3-d5b9-41a6-a15b-09d80b059de5.png)
+
 
 4. Deploy: https://json-statham.com/
-5. Done 27.02.2023 / deadline 28.02.2023
-6. Score: 620 / 620
-7. Back-end 
+5. Done 07.02.2023 / deadline 28.02.2023
+6. Task project. Team 
+- (sensaur)[https://github.com/sensaur] - back-end
+- (NikolayBalabanov)[https://github.com/sensaur] - front-end
+- (VEKozlov111)[https://github.com/VEKozlov111] - front-end
+8. Back-end 
 repository is located here: https://github.com/sensaur/JSON.Statham-back/tree/sensaur
 production server deployed here: https://api.json-statham.com/
 
