@@ -48,7 +48,7 @@ production server deployed here: https://api.json-statham.com/
 
 ### General
 - Sweetalert2 (user notification)
-- Adaptive
+- Responsive layout
 - SPA
 - Ligth/Dark mode
 
